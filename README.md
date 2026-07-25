@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitraj477/Leetcode_probs/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ankitraj477/Leetcode_probs/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitraj477/Leetcode_probs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/ankitraj477/Leetcode_probs/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitraj477/Leetcode_probs/tree/master/3536-maximum-product-of-two-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ankitraj477/Leetcode_probs/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
