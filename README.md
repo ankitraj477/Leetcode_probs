@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/ankitraj477/Leetcode_probs/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitraj477/Leetcode_probs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/ankitraj477/Leetcode_probs/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitraj477/Leetcode_probs/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitraj477/Leetcode_probs/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
