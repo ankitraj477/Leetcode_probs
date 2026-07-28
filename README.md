@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ankitraj477/Leetcode_probs/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ankitraj477/Leetcode_probs/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitraj477/Leetcode_probs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ankitraj477/Leetcode_probs/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitraj477/Leetcode_probs/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
