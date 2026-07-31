@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ankitraj477/Leetcode_probs/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1822-sign-of-the-product-of-an-array) |
