@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitraj477/Leetcode_probs/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitraj477/Leetcode_probs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ankitraj477/Leetcode_probs/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ankitraj477/Leetcode_probs/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/ankitraj477/Leetcode_probs/tree/master/0075-sort-colors) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitraj477/Leetcode_probs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ankitraj477/Leetcode_probs/tree/master/0035-search-insert-position) |
 ## Stack
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/ankitraj477/Leetcode_probs/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitraj477/Leetcode_probs/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
