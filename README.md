@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3731-find-missing-elements](https://github.com/ankitraj477/Leetcode_probs/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitraj477/Leetcode_probs/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ankitraj477/Leetcode_probs/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/ankitraj477/Leetcode_probs/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/ankitraj477/Leetcode_probs/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitraj477/Leetcode_probs/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ankitraj477/Leetcode_probs/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
