@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitraj477/Leetcode_probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitraj477/Leetcode_probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/ankitraj477/Leetcode_probs/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitraj477/Leetcode_probs/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitraj477/Leetcode_probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
