@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ankitraj477/Leetcode_probs/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitraj477/Leetcode_probs/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ankitraj477/Leetcode_probs/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/ankitraj477/Leetcode_probs/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ankitraj477/Leetcode_probs/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/ankitraj477/Leetcode_probs/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankitraj477/Leetcode_probs/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ankitraj477/Leetcode_probs/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/0189-rotate-array) |
 ## String
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/ankitraj477/Leetcode_probs/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitraj477/Leetcode_probs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitraj477/Leetcode_probs/tree/master/0701-insert-into-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ankitraj477/Leetcode_probs/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
