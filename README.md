@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankitraj477/Leetcode_probs/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitraj477/Leetcode_probs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankitraj477/Leetcode_probs/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/ankitraj477/Leetcode_probs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitraj477/Leetcode_probs/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ankitraj477/Leetcode_probs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
