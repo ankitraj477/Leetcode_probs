@@ -11,23 +11,12 @@
  */
 class Solution {
 public:
-    bool isBSTUtil(TreeNode* node, long long min, long long max) {
-        if (node == nullptr) 
-            return true;
-
-        // If the current node's data 
-        // is not in the valid range, return false
-        if (node->val <= min || node->val >= max) 
-            return false;
-
-        // Recursively check the left and 
-        // right subtrees with updated ranges
-        return isBSTUtil(node->left, min, node->val) &&
-               isBSTUtil(node->right, node->val, max);
+    bool bst(TreeNode* root,long long min,long long max){
+        if(root==nullptr) return true;
+        if(root->val>=max || root->val<=min) return false;
+        return bst(root->left,min,root->val) && bst(root->right,root->val,max);
     }
-
     bool isValidBST(TreeNode* root) {
-        // Use long long limits to avoid overflow issues
-        return isBSTUtil(root, LLONG_MIN, LLONG_MAX);
+        return bst(root, LONG_MIN, LONG_MAX);
     }
 };
