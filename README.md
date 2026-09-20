@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ankitraj477/Leetcode_probs/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/ankitraj477/Leetcode_probs/tree/master/0242-valid-anagram) |
+| [3498-reverse-degree-of-a-string](https://github.com/ankitraj477/Leetcode_probs/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitraj477/Leetcode_probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ankitraj477/Leetcode_probs/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
