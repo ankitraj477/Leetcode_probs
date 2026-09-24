@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitraj477/Leetcode_probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitraj477/Leetcode_probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitraj477/Leetcode_probs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/ankitraj477/Leetcode_probs/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitraj477/Leetcode_probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitraj477/Leetcode_probs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitraj477/Leetcode_probs/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitraj477/Leetcode_probs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitraj477/Leetcode_probs/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
