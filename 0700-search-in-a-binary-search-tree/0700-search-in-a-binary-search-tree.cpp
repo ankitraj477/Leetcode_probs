@@ -11,19 +11,21 @@
  */
 class Solution {
 public:
-    void bst(TreeNode* root, int val,TreeNode* &node){
+    void bst(TreeNode* root, int val,TreeNode*& ans){
         if(root==nullptr) return;
-        if(root->val == val) node=root;
 
-        if(root->val>val){
-            bst(root->left,val,node);
+        if(root->val==val){
+            ans=root;
+        }else if(root->val<val){
+            bst(root->right,val,ans);
         }else{
-            bst(root->right,val,node);
+            
+            bst(root->left,val,ans);
         }
     }
     TreeNode* searchBST(TreeNode* root, int val) {
-        TreeNode* node=nullptr;
-        bst(root,val,node);
-        return node;
+        TreeNode* ans=nullptr;
+        bst(root,val,ans);
+        return ans;
     }
 };
